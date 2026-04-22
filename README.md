@@ -136,15 +136,15 @@ Key Insights:
 
 ### Overview
 
-<img src="https://github.com/Vyaskaushal201/Email-Automation-VBA/blob/6eb0525b07cf3e45d83e86943fb4be2625d6bdc3/Images/Before%20Email%20Sent.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/Comet-Business-Dashboard/blob/fce6458369f857fe3fc474214a90d1f1e34928b1/Images/Overview.png" alt="Image Description" width="600">
 
 ### Operations
 
-![Operations](screenshots/operations.png)
+<img src="https://github.com/Chanchadiyakaushal201/Comet-Business-Dashboard/blob/fce6458369f857fe3fc474214a90d1f1e34928b1/Images/Overview.png" alt="Image Description" width="600">
 
 ### Finance
 
-![Finance](screenshots/finance.png)
+<img src="https://github.com/Chanchadiyakaushal201/Comet-Business-Dashboard/blob/fce6458369f857fe3fc474214a90d1f1e34928b1/Images/Overview.png" alt="Image Description" width="600">
 
 ---
 
