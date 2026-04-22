@@ -144,19 +144,27 @@ Key Insights:
 
 ### Finance
 
-<img src="https://github.com/Chanchadiyakaushal201/Comet-Business-Dashboard/blob/fce6458369f857fe3fc474214a90d1f1e34928b1/Images/Overview.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/Comet-Business-Dashboard/blob/b673dc53e09dce00c976e7709921f759d0ecdff5/Images/Finance.png" alt="Image Description" width="600">
+
+---
+
+## ⚠️ Disclaimer
+This project is a fictional case study created for learning and portfolio purposes. 
+The brand name "Comet" and dataset are used for demonstration only and do not represent any real company.
+
+---
 
 ---
 
 ## 💡 Author
 
-**Your Name**
+**Kaushal**
 
 ---
 
 ## 🔗 Connect with Me
 
-(Add your LinkedIn profile link here)
+https://www.linkedin.com/in/kaushal-chanchadiya-57199b2a8/
 
 ---
 
