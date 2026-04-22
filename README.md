@@ -140,7 +140,7 @@ Key Insights:
 
 ### Operations
 
-<img src="https://github.com/Chanchadiyakaushal201/Comet-Business-Dashboard/blob/fce6458369f857fe3fc474214a90d1f1e34928b1/Images/Overview.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/Comet-Business-Dashboard/blob/23139de8542d2050f2a6ad2afd1d7be1f69c5813/Images/Operations.png" alt="Image Description" width="600">
 
 ### Finance
 
