@@ -1,0 +1,81 @@
+Customer_ID,Customer_Name,Gender,Age,City,State,Membership_Status
+C001,Customer_1,Male,33,Hyderabad,Tamil Nadu,Non-Member
+C002,Customer_2,Male,35,Jaipur,Karnataka,Non-Member
+C003,Customer_3,Male,20,Mumbai,Telangana,Non-Member
+C004,Customer_4,Female,22,Bangalore,Gujarat,Non-Member
+C005,Customer_5,Male,33,Hyderabad,Rajasthan,Member
+C006,Customer_6,Female,37,Kolkata,Delhi,Non-Member
+C007,Customer_7,Female,20,Bangalore,Delhi,Member
+C008,Customer_8,Male,34,Bangalore,Telangana,Member
+C009,Customer_9,Male,25,Mumbai,Rajasthan,Non-Member
+C010,Customer_10,Male,22,Ahmedabad,Gujarat,Non-Member
+C011,Customer_11,Male,23,Jaipur,Rajasthan,Non-Member
+C012,Customer_12,Female,26,Chennai,Karnataka,Non-Member
+C013,Customer_13,Female,29,Chennai,Rajasthan,Non-Member
+C014,Customer_14,Female,35,Hyderabad,Tamil Nadu,Member
+C015,Customer_15,Male,25,Kolkata,Maharashtra,Non-Member
+C016,Customer_16,Male,38,Surat,Telangana,Non-Member
+C017,Customer_17,Male,25,Bangalore,Telangana,Non-Member
+C018,Customer_18,Female,31,Surat,Tamil Nadu,Member
+C019,Customer_19,Male,22,Bangalore,West Bengal,Member
+C020,Customer_20,Male,36,Ahmedabad,West Bengal,Non-Member
+C021,Customer_21,Male,38,Mumbai,Telangana,Non-Member
+C022,Customer_22,Female,27,Ahmedabad,Karnataka,Non-Member
+C023,Customer_23,Female,33,Kolkata,Maharashtra,Non-Member
+C024,Customer_24,Male,28,Pune,Maharashtra,Member
+C025,Customer_25,Male,32,Delhi,Telangana,Non-Member
+C026,Customer_26,Male,24,Kolkata,Maharashtra,Member
+C027,Customer_27,Female,20,Ahmedabad,Telangana,Non-Member
+C028,Customer_28,Female,39,Hyderabad,Rajasthan,Non-Member
+C029,Customer_29,Female,29,Bangalore,Tamil Nadu,Member
+C030,Customer_30,Male,32,Bangalore,Maharashtra,Member
+C031,Customer_31,Female,40,Ahmedabad,West Bengal,Member
+C032,Customer_32,Female,24,Bangalore,Karnataka,Member
+C033,Customer_33,Male,25,Mumbai,Rajasthan,Non-Member
+C034,Customer_34,Male,23,Pune,Karnataka,Member
+C035,Customer_35,Female,32,Kolkata,Gujarat,Non-Member
+C036,Customer_36,Male,25,Hyderabad,Gujarat,Non-Member
+C037,Customer_37,Male,39,Jaipur,Maharashtra,Non-Member
+C038,Customer_38,Male,32,Kolkata,Delhi,Member
+C039,Customer_39,Male,27,Pune,Telangana,Non-Member
+C040,Customer_40,Male,32,Bangalore,Tamil Nadu,Non-Member
+C041,Customer_41,Female,36,Jaipur,Rajasthan,Non-Member
+C042,Customer_42,Male,37,Surat,Maharashtra,Non-Member
+C043,Customer_43,Female,36,Pune,Tamil Nadu,Non-Member
+C044,Customer_44,Male,22,Surat,Telangana,Non-Member
+C045,Customer_45,Female,22,Chennai,West Bengal,Member
+C046,Customer_46,Male,40,Delhi,Rajasthan,Non-Member
+C047,Customer_47,Male,40,Kolkata,Rajasthan,Non-Member
+C048,Customer_48,Female,32,Delhi,Gujarat,Member
+C049,Customer_49,Female,21,Ahmedabad,Tamil Nadu,Non-Member
+C050,Customer_50,Female,33,Kolkata,Gujarat,Member
+C051,Customer_51,Female,35,Ahmedabad,Delhi,Member
+C052,Customer_52,Male,35,Chennai,Gujarat,Non-Member
+C053,Customer_53,Female,27,Kolkata,Rajasthan,Member
+C054,Customer_54,Female,36,Mumbai,Karnataka,Member
+C055,Customer_55,Female,32,Bangalore,Delhi,Non-Member
+C056,Customer_56,Male,36,Pune,West Bengal,Non-Member
+C057,Customer_57,Female,23,Bangalore,West Bengal,Member
+C058,Customer_58,Female,31,Surat,Gujarat,Member
+C059,Customer_59,Male,30,Jaipur,Tamil Nadu,Non-Member
+C060,Customer_60,Male,36,Ahmedabad,Gujarat,Non-Member
+C061,Customer_61,Female,32,Bangalore,West Bengal,Non-Member
+C062,Customer_62,Female,34,Surat,Tamil Nadu,Non-Member
+C063,Customer_63,Female,39,Pune,Delhi,Member
+C064,Customer_64,Male,21,Chennai,Telangana,Member
+C065,Customer_65,Male,32,Surat,Rajasthan,Non-Member
+C066,Customer_66,Male,20,Jaipur,Karnataka,Member
+C067,Customer_67,Female,26,Kolkata,Telangana,Non-Member
+C068,Customer_68,Female,25,Bangalore,West Bengal,Non-Member
+C069,Customer_69,Male,29,Ahmedabad,West Bengal,Member
+C070,Customer_70,Male,27,Surat,Rajasthan,Non-Member
+C071,Customer_71,Male,38,Delhi,Delhi,Member
+C072,Customer_72,Male,24,Mumbai,Rajasthan,Non-Member
+C073,Customer_73,Female,35,Chennai,Karnataka,Member
+C074,Customer_74,Female,29,Pune,Maharashtra,Non-Member
+C075,Customer_75,Male,22,Bangalore,Delhi,Non-Member
+C076,Customer_76,Male,31,Pune,Telangana,Member
+C077,Customer_77,Male,38,Kolkata,Tamil Nadu,Non-Member
+C078,Customer_78,Female,25,Mumbai,Delhi,Member
+C079,Customer_79,Female,37,Pune,West Bengal,Member
+C080,Customer_80,Male,36,Hyderabad,Delhi,Member

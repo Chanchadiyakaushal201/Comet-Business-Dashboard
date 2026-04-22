@@ -1,0 +1,61 @@
+Product_ID,Product_Name,Model,Category,Price,Cost,Collection_Type,Collaboration_Name
+P001,Core Product_1,Aeon,Lifestyle,3948,2392,Core,None
+P002,Core Product_2,APEX,Lifestyle,4221,2933,Core,None
+P003,Core Product_3,Aeon,Low-top,4816,3402,Core,None
+P004,Core Product_4,Aeon V2,High-top,4511,3291,Core,None
+P005,Core Product_5,X Lows,Mid-top,4404,3091,Core,None
+P006,Core Product_6,APEX,Lifestyle,3945,2724,Core,None
+P007,Core Product_7,Alter,Performance Low,3728,2354,Core,None
+P008,Core Product_8,Alter,Low-top,4450,3279,Core,None
+P009,Core Product_9,APEX,Mid-top,3855,2664,Core,None
+P010,Core Product_10,Aeon,High-top,4270,3158,Core,None
+P011,Core Product_11,APEX,Performance Low,4598,2901,Core,None
+P012,Core Product_12,APEX,Mid-top,4554,3262,Core,None
+P013,Core Product_13,X Lows,High-top,4242,2803,Core,None
+P014,Core Product_14,Alter,Lifestyle,3865,2708,Core,None
+P015,Core Product_15,APEX,High-top,4241,3177,Core,None
+P016,Core Product_16,APEX,Low-top,4366,3264,Core,None
+P017,Core Product_17,X Lows,High-top,3931,2905,Core,None
+P018,Core Product_18,Alter,Lifestyle,4571,2945,Core,None
+P019,Core Product_19,Aeon,Streetwear,3829,2541,Core,None
+P020,Core Product_20,Aeon V2,Performance Low,4812,3429,Core,None
+P021,Core Product_21,Aeon,Mid-top,4832,3032,Core,None
+P022,Core Product_22,Aeon,Performance Low,4274,2870,Core,None
+P023,Core Product_23,APEX,Performance Low,3582,2259,Core,None
+P024,Core Product_24,APEX,Performance Low,4188,3017,Core,None
+P025,Core Product_25,Aeon,High-top,3785,2484,Core,None
+P026,Core Product_26,X Lows,Low-top,4306,3085,Core,None
+P027,Core Product_27,Alter,Lifestyle,4690,3399,Core,None
+P028,Core Product_28,Aeon,Performance Low,4437,2813,Core,None
+P029,Core Product_29,Aeon V2,Streetwear,4633,2817,Core,None
+P030,Core Product_30,Aeon,Performance Low,4258,2767,Core,None
+P031,Core Product_31,Aeon V2,Lifestyle,4225,2933,Core,None
+P032,Core Product_32,X Lows,Mid-top,4725,3367,Core,None
+P033,Core Product_33,Alter,Streetwear,4267,3060,Core,None
+P034,Core Product_34,Aeon,Lifestyle,3755,2730,Core,None
+P035,Core Product_35,Alter,High-top,3658,2542,Core,None
+P036,Core Product_36,Alter,Low-top,3799,2668,Core,None
+P037,Core Product_37,Aeon,Lifestyle,4105,2590,Core,None
+P038,Core Product_38,Aeon V2,High-top,4519,2733,Core,None
+P039,Core Product_39,APEX,Mid-top,4186,2517,Core,None
+P040,Core Product_40,Alter,Low-top,3788,2421,Core,None
+P041,Limited Product_1,X Lows,Low-top,7694,5489,Limited Drop,Comet x Naru
+P042,Limited Product_2,APEX,Low-top,8465,6344,Limited Drop,Comet x Naru
+P043,Limited Product_3,APEX,Streetwear,6952,4633,Limited Drop,Comet x Naru
+P044,Limited Product_4,APEX,Lifestyle,8050,5281,Limited Drop,Comet x Farak Aasmaan
+P045,Limited Product_5,Alter,High-top,6087,3968,Limited Drop,Comet x Farak Aasmaan
+P046,Limited Product_6,Aeon V2,Streetwear,7817,5292,Limited Drop,Comet x Farak Aasmaan
+P047,Limited Product_7,Aeon V2,High-top,6915,4169,Limited Drop,Comet x Peanuts
+P048,Limited Product_8,Aeon,Lifestyle,7863,5781,Limited Drop,Comet x Peanuts
+P049,Limited Product_9,Alter,Performance Low,6355,3960,Limited Drop,Comet x Peanuts
+P050,Limited Product_10,Alter,Mid-top,6055,4261,Limited Drop,Comet x Monopoly
+P051,Limited Product_11,Aeon,Low-top,7225,4830,Limited Drop,Comet x Monopoly
+P052,Limited Product_12,Aeon,Low-top,6826,4734,Limited Drop,Comet x Monopoly
+P053,Limited Product_13,Aeon,Lifestyle,6627,4087,Limited Drop,Comet x Ludo
+P054,Limited Product_14,X Lows,Streetwear,8189,5411,Limited Drop,Comet x Ludo
+P055,Limited Product_15,Aeon,Streetwear,6507,4587,Limited Drop,Comet x Ludo
+P056,Limited Product_16,X Lows,Low-top,8206,5883,Limited Drop,Comet x Radioactive
+P057,Limited Product_17,APEX,Lifestyle,6899,4239,Limited Drop,Comet x Radioactive
+P058,Limited Product_18,Aeon V2,Lifestyle,6834,4908,Limited Drop,Comet x Mango
+P059,Limited Product_19,X Lows,Performance Low,8131,5247,Limited Drop,Comet x Mango
+P060,Limited Product_20,Alter,Performance Low,7303,4419,Limited Drop,Comet x Peanuts
