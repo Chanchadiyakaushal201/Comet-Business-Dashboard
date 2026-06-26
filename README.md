@@ -164,7 +164,7 @@ The brand name "Comet" and dataset are used for demonstration only and do not re
 
 ## 🔗 Connect with Me
 
-https://www.linkedin.com/in/kaushal-chanchadiya-57199b2a8/
+https://www.linkedin.com/in/kaushalchanchadiya162004/
 
 ---
 
