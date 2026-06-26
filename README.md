@@ -158,7 +158,7 @@ The brand name "Comet" and dataset are used for demonstration only and do not re
 
 ## 💡 Author
 
-**Kaushal**
+**Kaushal Chanchadiya**
 
 ---
 
